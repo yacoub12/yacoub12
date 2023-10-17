@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... jeux
 - 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... tony
-- 📫 How to reach me ... jacobtannous
+- 📫 How to reach me ... YAC
 
 <!---
 yacoub12/yacoub12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
